@@ -1,0 +1,7 @@
+.idea
+/bin/
+target/
+/.classpath
+*.jar
+dependency-reduced-pom.xml
+BiscoitoSmpEventos.iml

@@ -1,0 +1,13 @@
+name: BiscoitoEventos
+version: '${project.version}'
+main: biscoito.smp.biscoitosmpeventos.BiscoitoEventos
+api-version: '1.20'
+permissions:
+  eventos.start:
+    description: "iniciar eventos"
+  eventos.finish:
+    description: "finalizar eventos"
+commands:
+  evento:
+    usage: "/evento [iniciar|terminar] [<player>|<nome do evento>]"
+    description: "Comando de eventos"
