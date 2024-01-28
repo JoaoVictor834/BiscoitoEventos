@@ -9,5 +9,5 @@ permissions:
     description: "finalizar eventos"
 commands:
   evento:
-    usage: "/evento [iniciar|terminar] [<player>|<nome do evento>]"
+    usage: "/evento [iniciar|terminar|fechar] [<player>|<nome do evento>]"
     description: "Comando de eventos"
