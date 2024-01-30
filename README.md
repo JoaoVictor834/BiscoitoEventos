@@ -1,4 +1,4 @@
-## Its a event plugin maked for the minecraft server biscoito.fun
+## Its a event plugin maked for the minecraft server biscoito.fun 
 
 ### Commands:
 
