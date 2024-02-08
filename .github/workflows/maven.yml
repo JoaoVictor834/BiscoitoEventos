@@ -34,4 +34,4 @@ jobs:
         uses: actions/upload-artifact@v3
         with:
           name: BiscoitoEventos
-          path: target/BiscoitoSmpEventos-1.0-SNAPSHOT.jar
+          path: target/BiscoitoEventos.jar
